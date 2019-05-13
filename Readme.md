@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Ольга Шинкевич](https://up.htmlacademy.ru/htmlcss/25/user/952477).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Терлюк](https://htmlacademy.ru/profile/dzmitryblr).
 
 ---
 
